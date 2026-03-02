@@ -70,4 +70,18 @@ Check out the following documents to learn more about Triton and how it compares
    programming-guide/chapter-2/related-work
    programming-guide/chapter-3/debugging
 
+Development
+-----------
+
+For developers working on Triton itself:
+
+- :doc:`Configuration Knobs <development/configuration-knobs>`
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Development
+   :hidden:
+
+   development/configuration-knobs
+
 .. _Triton: https://github.com/triton-lang/triton
